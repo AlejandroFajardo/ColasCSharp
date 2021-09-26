@@ -1,0 +1,6 @@
+B:\C#\Colas\Colas\bin\Debug\Colas.exe.config
+B:\C#\Colas\Colas\bin\Debug\Colas.exe
+B:\C#\Colas\Colas\bin\Debug\Colas.pdb
+B:\C#\Colas\Colas\obj\Debug\Colas.csproj.CoreCompileInputs.cache
+B:\C#\Colas\Colas\obj\Debug\Colas.exe
+B:\C#\Colas\Colas\obj\Debug\Colas.pdb
