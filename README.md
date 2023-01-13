@@ -1,2 +1,2 @@
-# ColasCSharp
-Implementación de la teoría de colas en C#
+# Queue C#
+Implementation of queuing theory in C#
